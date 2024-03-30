@@ -9,12 +9,7 @@ header{
     /* margin-left: 50px; */
     justify-content: space-around;
 }
-#nav2{
-    /* margin-right: 50px; */
-    /* width: 50%; */
-    /* justify-content: left;
-    justify-self:left; */
-}
+
 .slid{
     height: 200px;
     width: 300px;
@@ -40,8 +35,9 @@ header{
     height: 200px;
     width: 300px;
     /* /* padding: 40px; */
-    border-radius: 10px; */
+    border-radius: 10px; 
 }
+
 #d1{
     display: flex;
     justify-content: space-around;
